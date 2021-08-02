@@ -1,0 +1,17 @@
+.text {
+  margin-left: 3.3rem;
+  font-weight: 600;
+  color: #000000;
+}
+.currencyName {
+  background-color: #f4f6ff;
+  padding: 19px;
+  border-bottom-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+}
+.cName {
+  padding: 19px;
+}
+.distance {
+  margin-left: 1.09rem;
+}
